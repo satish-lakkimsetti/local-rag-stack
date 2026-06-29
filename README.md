@@ -18,7 +18,7 @@ Upload documents, ask questions, and get answers grounded in your content — no
 ## Running
 
 ```bash
-cd rag-app
+cd local-rag-stack
 docker compose up --build
 ```
 
